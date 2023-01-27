@@ -90,7 +90,7 @@ export default function Home() {
               <p className="py-2">
                 If you need some advices or need someone to teach you or assist you, you can contact us. 
               </p>
-              <h4 className="py-4 text-teal-600">Consulting platforms we use</h4>
+              <h4 className="py-4 text-teal-600">I love i.t</h4>
               <p className="text-black-200 py-1">Google Meet</p>
               <p className="text-black-200 py-1">Zoom</p>
               <p className="text-black-200 py-1">Skype</p>
